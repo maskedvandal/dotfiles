@@ -49,7 +49,7 @@ printf "%s\n"                                                                  #
                                                                                #
 ################################################################################
 
-export EDITOR="vim"
+export EDITOR="emacs"
 
 HISTCONTROL=ignoreboth
 HISTSIZE=5000
